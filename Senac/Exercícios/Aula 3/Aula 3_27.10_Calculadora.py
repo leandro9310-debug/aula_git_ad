@@ -15,8 +15,8 @@ else:
         else:
             if(operador=="/"):
                 resultado = valor1 / valor2
-                if valor2 == "0"
-                else:
+                if valor2 == "0":
                     print("Erro:Não se faz divisão por 0!")
-                print("Operador Inválido!")
+                else:
+                    print("Operador Inválido!")
 print(f"O resultado da operação é: {resultado:.2f}")
