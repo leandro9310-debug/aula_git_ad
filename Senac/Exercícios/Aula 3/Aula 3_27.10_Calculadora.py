@@ -19,4 +19,4 @@ elif (operador=="/"):
 else:
     print("Operador Inválido!")
 if resultado is not None:
-print(f"O resultado da operação é: {resultado:.2f}")
+    print(f"O resultado da operação é: {resultado:.2f}")
